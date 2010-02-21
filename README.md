@@ -9,4 +9,5 @@ Sample of rails3 generator
             `-- foo                   # directory of "foo generator"
                 |-- foo_generator.rb  # script of "foo generator"
                 `-- templates         # directory of templates (specified as "source_root" in foo_generator.rb)
-                    `-- foo           # foo!
+                    `-- foo.rb
+                    `-- bar.rb
