@@ -1,4 +1,4 @@
-Sample of rails3 generator
+Sample of Rails3 generator
 ======
 
 Usage
